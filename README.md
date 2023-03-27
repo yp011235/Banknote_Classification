@@ -2,7 +2,7 @@
 
 
 Summary:
-In this project, I used a dataset that has 4 features that describe a banknote, and one column that classifies the banknote as authentic or not. After exploring, and then transforming the data to adjust for skewness, I try 3 different models to predict the authenticity of the banknote.
+In this project, I use a dataset that has 4 features that describe a banknote, and one feature column that classifies the banknote as authentic or not. After exploring, and then transforming the data to adjust for skewness, I try 3 different models to predict the authenticity of the banknote.
 
 Attribute Information
 1. variance of Wavelet Transformed image (continuous)
